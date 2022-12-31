@@ -1,0 +1,27 @@
+#news ul {
+	padding:0px;
+	margin:0px;
+	font-family:robot;
+	font-size:12px;
+	list-style: none outside none !important;
+	text-align:justify;
+}
+.rsslib {
+	min-width:200px;
+	max-width:500px;
+}
+.rsslib ul {
+	list-style: none outside none !important;
+}
+#news ul a {
+	color:#FF6919;
+	list-style: none outside none !important;
+}
+.rsslib ul li {
+	margin-bottom:8px;
+	text-align:justify;
+}
+.rssdate, .rssdesc {
+	font-size: 90%;
+	font-style:italic;
+}
